@@ -1,6 +1,19 @@
 # expense_tracker
 
+## Description:
+The app allows users to register their expenses and let them see it both in a chart and a list
 
+## What was learned:
+Show a snackbar and modal bottom sheet.
+How to handle user input with textFilds and dropdown buttons.
+How to build a manual datepicker.
+How to show a dialog.
+How handle user input with textEditingControllers and by manually storing the input values
+passing pointers at functions to my own widgets so that some child widget can call a function that belongs to a parent widget.
+
+Theming
+
+How to make responsive and adaptive apps. Adjusting apps for different screen size(changing layouts based on screen sizes; detection and using screen information).
 
 
 https://github.com/michelgm/expense_tracker/assets/99933941/68482adb-4eee-40fe-9a8f-688a657bfbdc
